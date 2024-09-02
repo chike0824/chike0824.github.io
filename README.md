@@ -3,12 +3,19 @@
 
 
 
-I am a soon to be graduate with a profound interest in cybersecurity and a dedication to solving complex problems.
+I am a soon to be graduate with a profound interest in cybersecurity and a dedication to solving complex problems. Expected Grad Dec 2024.
 
 ## Objective
 
 
-My experience with information technology has sparked a love for cybersecurity, and I'm excited to move into this area. My goal is to work as a Tier 1 Analyst in a Security Operations Center (SOC).
+My experience with information technology has sparked a love for cybersecurity and computer systems, and I'm excited to move into this area. My goal is to work as a computer analyst .
+
+## Relevant Coursework
+• System Administration and Maintenance
+• Cyber Security Risk Management
+• Web-Based Program
+• Data Structure and Algorithm Analysis
+• Disaster Recovery and Enterprise Continuity
 
 ## Skills
 
@@ -18,6 +25,7 @@ My experience with information technology has sparked a love for cybersecurity, 
 | AIG Shields Up: Cybersecurity virtual experience program on Forage  | <a https://www.theforage.com/simulations/aig/cybersecurity-ku1i</a>|
 | Datacom Cybersecurity Job Simulation        |<a https://www.theforage.com/simulations/datacom/cybersecurity-zm6d</a>|
 | Cyber Defense Lab      | SOC Automation Lab|
+| Detection Analyst Lab  | https://tryhackme.com/paths |
 
 
 ## Tools
