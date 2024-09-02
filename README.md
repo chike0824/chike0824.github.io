@@ -8,7 +8,7 @@ I am a soon to be graduate with a profound interest in cybersecurity and a dedic
 ## Objective
 
 
-My experience with information technology has sparked a love for cybersecurity and computer systems, and I'm excited to move into this area. My goal is to work as a computer analyst .
+My experience with information technology has sparked a love for cybersecurity and computer systems, and I'm excited to be in this field. My goal is to work as a computer analyst .
 
 ## Relevant Coursework
 • System Administration and Maintenance
